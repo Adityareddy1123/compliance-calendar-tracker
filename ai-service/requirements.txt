@@ -1,3 +1,8 @@
-groq
-python-dotenv
-flask
+flask==3.1.0
+python-dotenv==1.0.1
+groq==0.11.0
+fakeredis==2.23.2
+redis==5.0.8
+chromadb==0.5.5
+requests==2.32.3
+sentence-transformers==3.0.1
